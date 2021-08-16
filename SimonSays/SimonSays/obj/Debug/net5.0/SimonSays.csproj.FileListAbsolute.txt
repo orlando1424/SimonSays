@@ -1,0 +1,16 @@
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.exe
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.deps.json
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.runtimeconfig.json
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.runtimeconfig.dev.json
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.dll
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\ref\SimonSays.dll
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\bin\Debug\net5.0\SimonSays.pdb
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.csproj.AssemblyReference.cache
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.AssemblyInfoInputs.cache
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.AssemblyInfo.cs
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.csproj.CoreCompileInputs.cache
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.dll
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\ref\SimonSays.dll
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.pdb
+F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.genruntimeconfig.cache
