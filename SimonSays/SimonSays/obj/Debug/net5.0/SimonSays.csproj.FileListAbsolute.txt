@@ -14,3 +14,11 @@ F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSa
 F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\ref\SimonSays.dll
 F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.pdb
 F:\C# Players Guide\MySolutions\Level21Static\SimonSays\obj\Debug\net5.0\SimonSays.genruntimeconfig.cache
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.csproj.AssemblyReference.cache
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.AssemblyInfoInputs.cache
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.AssemblyInfo.cs
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.csproj.CoreCompileInputs.cache
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.dll
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\ref\SimonSays.dll
+D:\Repos\SimonSays\SimonSays\SimonSays\SimonSays\obj\Debug\net5.0\SimonSays.pdb

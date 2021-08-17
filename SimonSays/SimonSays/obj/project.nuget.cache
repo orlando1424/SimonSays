@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kNJtOrUTAh1XF09WDb6sgSCCxphJknxLxLqGBprdeKbg4veTMGYdHFkVwmC0LIMR2iFU+o7m35/oHyOgMh4mug==",
+  "dgSpecHash": "2vNbXWviZzDoZR/RoQSCgsXci4DT4mU1L5OxTokbGCsZ3lh8A402g/R933lBRCU1OfTBF7qK84vFC8QW+oOJHA==",
   "success": true,
-  "projectFilePath": "F:\\C# Players Guide\\MySolutions\\Level21Static\\SimonSays\\SimonSays.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repos\\SimonSays\\SimonSays\\SimonSays\\SimonSays\\SimonSays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

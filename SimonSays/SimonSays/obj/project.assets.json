@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Players Guide\\MySolutions\\Level21Static\\SimonSays\\SimonSays.csproj",
+      "projectUniqueName": "D:\\Repos\\SimonSays\\SimonSays\\SimonSays\\SimonSays\\SimonSays.csproj",
       "projectName": "SimonSays",
-      "projectPath": "F:\\C# Players Guide\\MySolutions\\Level21Static\\SimonSays\\SimonSays.csproj",
+      "projectPath": "D:\\Repos\\SimonSays\\SimonSays\\SimonSays\\SimonSays\\SimonSays.csproj",
       "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Players Guide\\MySolutions\\Level21Static\\SimonSays\\obj\\",
+      "outputPath": "D:\\Repos\\SimonSays\\SimonSays\\SimonSays\\SimonSays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.7, 5.0.7]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
       }
     }
   }
